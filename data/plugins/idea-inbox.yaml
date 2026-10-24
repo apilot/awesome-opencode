@@ -1,0 +1,5 @@
+name: Idea Inbox
+repo: https://github.com/apilot/opencode-idea-inbox
+tagline: Sidebar idea backlog — park stray thoughts, dispatch them to agents later
+description: Never lose a stray thought mid-task — capture it with leader+z into a sidebar backlog, then dispatch ideas to agents as missions with leader+i and watch the status move from parked to running to done. Agents manage the backlog via tools. Ships as one npm package for opencode v2 (v1 line on the legacy-v1 tag).
+min_version: 2.0.20
